@@ -6,7 +6,7 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 client.on('ready', () => {
-      client.user.setGame(`Qoudra Bot`,'https://www.twitch.tv/v5bz');
+      client.user.setGame(`QUADRA SERVER`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log(' Bot Is Online')
   console.log('---------------')
